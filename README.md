@@ -48,3 +48,10 @@ You have to run this from Command Line
 bbrowsermini (web-browser) (url)
 
 BBrowser mini only supports HTTP, Other Ones are Not Supported
+
+## Wikisearch
+WikiSearch allows you to Open Wikipedia Pages to Your browser
+
+You have to run this from CMD
+
+wikisearch (browser) (pagename)
