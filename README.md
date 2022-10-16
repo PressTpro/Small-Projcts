@@ -33,3 +33,9 @@ USE + AS SPACE INSTEAD OF SPACE
 You have to run this from a command line
 
 searchtube (web-browser) (query)
+## Gitory
+Gitory Makes you Access any GitHub Repository from The Command Line, It Uses Parameters
+
+You have to run this from Command Line
+
+gitory (browser) (repository)
