@@ -39,3 +39,12 @@ Gitory Makes you Access any GitHub Repository from The Command Line, It Uses Par
 You have to run this from Command Line
 
 gitory (browser) (repository)
+
+## BBrowser mini
+BBrowser mini allows you to enter to a URL from the cmd
+
+You have to run this from Command Line
+
+bbrowsermini (web-browser) (url)
+
+BBrowser mini only supports HTTP, Other Ones are Not Supported
