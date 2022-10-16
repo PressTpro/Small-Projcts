@@ -29,4 +29,5 @@ SearchTube Allows you to search on YouTube Directly From your Browser, It Uses P
 USE + AS SPACE IF YOUR QUERY WILL USE SPACE
 
 You have to run this from a command line
+
 searchtube (web-browser) (query)
