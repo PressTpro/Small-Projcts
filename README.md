@@ -17,16 +17,18 @@ You have to run this from a command line
 presspad.bat (filename) (contents)
 
 ## GSearch
-GSearch allows you to go to google from any web browser, Works only with Parameters
+GSearch allows you to search google from any web browser, Works only with Parameters
+
+USE + AS SPACE INSTEAD OF SPACE
 
 You have to run this from a Command Line
 
-gsearch (web-browser)
+gsearch (web-browser) (query)
 
 ## SearchTube 
 SearchTube Allows you to search on YouTube Directly From your Browser, It Uses Parameters
 
-USE + AS SPACE IF YOUR QUERY WILL USE SPACE
+USE + AS SPACE INSTEAD OF SPACE
 
 You have to run this from a command line
 
